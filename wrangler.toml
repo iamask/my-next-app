@@ -16,4 +16,5 @@ binding = "NEXT_CACHE_WORKERS_KV"
 id = "d107e52a1a1641fb9e6acc133baa1bb0"
 
 
-
+[observability]
+enabled = true
