@@ -18,3 +18,7 @@ id = "d107e52a1a1641fb9e6acc133baa1bb0"
 
 [observability]
 enabled = true
+
+[[services]]
+binding = "sv"
+service = "my-next-app-sv"
